@@ -1286,7 +1286,7 @@ class Main:
 
 
 def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
+	key1=open('"/data/data/com.termux/files/home/ok/file-clone/Ok.py",', 'r').read()
 	clear()
 	print(logo)
 	r1=requests.get("https://raw.githubusercontent.com/Jakariya404/approve/main/Approved.txt").text
